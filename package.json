@@ -1,0 +1,24 @@
+{
+  "name": "farol-extension-contact-lahar",
+  "version": "1.0.0",
+  "description": "Farol Extension - Lahar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/menvia/farol-extension-contact-lahar.git"
+  },
+  "keywords": [
+    "farol",
+    "extension",
+    "lahar"
+  ],
+  "author": "Menvia Developer <developer@menvia.com> (https://menvia.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/menvia/farol-extension-contact-lahar/issues"
+  },
+  "homepage": "https://github.com/menvia/farol-extension-contact-lahar#readme"
+}

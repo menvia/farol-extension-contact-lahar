@@ -1,0 +1,10 @@
+{
+  "type": "contact",
+  "schema": [
+    {
+      "name": "token_api_lahar",
+      "type": "string"
+    }
+  ],
+  "icon": "icon.png"
+}
