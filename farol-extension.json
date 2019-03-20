@@ -1,10 +1,16 @@
 {
+  "name": "Lahar",
+  "description": {
+    "en": "Farol Extension to integrate with Lahar services",
+    "pt": "Extensão do Farol para integrar com os serviços da Lahar",
+    "es": "Extensión de Farol para integrarse con los servicios de Lahar"
+  },
+  "icon": "icon.png",
   "type": "contact",
   "schema": [
     {
       "name": "token_api_lahar",
       "type": "string"
     }
-  ],
-  "icon": "icon.png"
+  ]
 }
