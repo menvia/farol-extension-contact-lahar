@@ -1,6 +1,6 @@
 {
   "name": "farol-extension-contact-lahar",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Farol Extension - Lahar",
   "main": "index.js",
   "scripts": {
